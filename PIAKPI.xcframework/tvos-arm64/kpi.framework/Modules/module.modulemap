@@ -1,0 +1,8 @@
+framework module kpi {
+    umbrella header "kpi.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
