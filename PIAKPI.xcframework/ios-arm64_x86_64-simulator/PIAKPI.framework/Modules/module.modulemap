@@ -1,6 +1,0 @@
-framework module PIAKPI {
-    umbrella header "PIAKPI.h"
-
-    export *
-    module * { export * }
-}
